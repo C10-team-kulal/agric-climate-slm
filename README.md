@@ -102,10 +102,3 @@ Fine-tuned adapter available at:
 **Mentors:** Taiwo Samuel
 
 **Program:** TRI AI Saturdays Lagos, Cohort 10
-
-## References
-
-1. [CGIAR GARDIAN AI Documents Dataset](https://huggingface.co/datasets/CGIAR/gardian-cigi-ai-documents)
-2. FAO's open knowledge repository (harvested via OAI-PMH from CGSpace/openknowledge.fao.org)
-3. [Gemma 2 Model Card](https://huggingface.co/google/gemma-2-2b-it)
-4. [PEFT / LoRA Documentation](https://huggingface.co/docs/peft)
