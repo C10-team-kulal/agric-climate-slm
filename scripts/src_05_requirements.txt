@@ -1,0 +1,10 @@
+**Tools & Libraries :** 
+
+- **Python**
+- **Pandas**, **NumPy**
+- **sentence-transformers**, **scikit-learn** (retrieval)
+- **transformers**, **peft**, **trl**, **bitsandbytes**, **accelerate** (fine-tuning)
+- **python-Levenshtein** (evaluation metric)
+- **Groq API** (LLM-assisted data generation and answer restyling)
+- **Kaggle Notebooks** (GPU training environment)
+- **Hugging Face Hub** (model/adapter hosting and backup)
